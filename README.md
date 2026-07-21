@@ -1,6 +1,6 @@
 # Hi, I'm Ree 👋
 
-I'm a Software Engineer with 9+ years of experience developing enterprise applications and backend services.
+I'm a Software Engineer with 8 years of experience developing enterprise applications and backend services.
 
 ## 👩‍💻 Tech Stack
 
